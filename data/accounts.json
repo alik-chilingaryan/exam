@@ -1,7 +1,44 @@
-{
-  "id": "A001",
-  "accountNumber": "1234567890",
-  "balance": 1000,
-  "accountType": "checking",
-  "customerId": "C001"
-}
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "123-456-7890",
+    "id": 1743258608766
+  },
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "123-456-7890",
+    "id": 1743258610758
+  },
+  [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "id": 1743258610758
+    }
+  ],
+  [
+    {
+      "name": "bAXDASAR",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "id": 1743258608766
+    },
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "id": 1743258610758
+    },
+    [
+      {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "123-456-7890",
+        "id": 1743258610758
+      }
+    ]
+  ]
+]
