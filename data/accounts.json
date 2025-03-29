@@ -1,0 +1,7 @@
+{
+  "id": "A001",
+  "accountNumber": "1234567890",
+  "balance": 1000,
+  "accountType": "checking",
+  "customerId": "C001"
+}
