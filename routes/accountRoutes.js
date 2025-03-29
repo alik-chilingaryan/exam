@@ -1,11 +1,18 @@
-const express = require("express");
-const router = express.Router();
-const accountController = require("../controllers/accountController.js");
+import express from "express";
+import {
+  createAccount,
+  deleteAccount,
+  getAccountById,
+  getAccounts,
+  updateById,
+} from "../controllers/accountController.js";
 
-router.post("/", accountController.createAccount);
-router.get("/", accountController.getAccounts);
-router.put("/:id", accountController.updateById);
-router.get("/:id", accountController.getAccountById);
-router.delete("/:id", accountController.deleteAccount);
+const accountRoutes = express.Router();
 
-module.exports = router;
+accountRoutes.post("/", createAccount);
+accountRoutes.get("/", getAccounts);
+accountRoutes.put("/:id", updateById);
+accountRoutes.get("/:id", getAccountById);
+accountRoutes.delete("/:id", deleteAccount);
+
+export default accountRoutes;

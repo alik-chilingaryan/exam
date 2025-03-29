@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1743265565187,
+    "accountId": 1743263986064,
+    "amount": -200,
+    "transactionType": "transfer-out",
+    "date": "2025-03-29T16:26:05.187Z"
+  },
+  {
+    "id": 1743265565187,
+    "accountId": 872345982366236,
+    "amount": 200,
+    "transactionType": "transfer-in",
+    "date": "2025-03-29T16:26:05.187Z"
+  },
+  {
+    "id": 1743265647627,
+    "accountId": 1743263986064,
+    "amount": -200,
+    "transactionType": "transfer-out",
+    "date": "2025-03-29T16:27:27.627Z"
+  },
+  {
+    "id": 1743265647627,
+    "accountId": 872345982366236,
+    "amount": 200,
+    "transactionType": "transfer-in",
+    "date": "2025-03-29T16:27:27.627Z"
+  }
+]

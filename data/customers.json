@@ -1,0 +1,16 @@
+[
+  {
+    "id": 215234532452353245632,
+    "accountNumber": "1234567890",
+    "balance": 1000,
+    "accountType": "checking",
+    "customerId": 1743263986064
+  },
+  {
+    "id": 98469834673593475,
+    "accountNumber": "1234567890",
+    "balance": 1000,
+    "accountType": "checking",
+    "customerId": 1743263986064
+  }
+]

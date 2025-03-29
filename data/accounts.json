@@ -3,42 +3,21 @@
     "name": "John Doe",
     "email": "john@example.com",
     "phone": "123-456-7890",
-    "id": 1743258608766
+    "balance": 1000,
+    "id": 1743266282633
   },
   {
     "name": "John Doe",
     "email": "john@example.com",
     "phone": "123-456-7890",
-    "id": 1743258610758
+    "balance": 1000,
+    "id": 1743266283241
   },
-  [
-    {
-      "name": "John Doe",
-      "email": "john@example.com",
-      "phone": "123-456-7890",
-      "id": 1743258610758
-    }
-  ],
-  [
-    {
-      "name": "bAXDASAR",
-      "email": "john@example.com",
-      "phone": "123-456-7890",
-      "id": 1743258608766
-    },
-    {
-      "name": "John Doe",
-      "email": "john@example.com",
-      "phone": "123-456-7890",
-      "id": 1743258610758
-    },
-    [
-      {
-        "name": "John Doe",
-        "email": "john@example.com",
-        "phone": "123-456-7890",
-        "id": 1743258610758
-      }
-    ]
-  ]
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "123-456-7890",
+    "balance": 1000,
+    "id": 1743266283764
+  }
 ]
