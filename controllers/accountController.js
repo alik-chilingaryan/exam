@@ -43,7 +43,6 @@ export const getAccounts = (req, res) => {
 
 export const getAccountById = (req, res) => {
   const { id } = req.params;
-  console.log(id);
 
   const accounts = readAccounts();
 
